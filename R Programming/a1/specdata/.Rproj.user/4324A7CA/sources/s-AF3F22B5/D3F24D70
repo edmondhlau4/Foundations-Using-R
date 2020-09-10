@@ -1,0 +1,24 @@
+{
+    "id": "D3F24D70",
+    "path": "~/R/datasciencecoursera/R_Programming/specdata/corr.R",
+    "project_path": "corr.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1598390379152.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "20,8",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1598390807,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1598390807459,
+    "read_only": false,
+    "read_only_alternatives": []
+}
